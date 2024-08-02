@@ -1,6 +1,4 @@
 # First game in Godot
-Project files for our video on making your first game in Godot.
+This is a classic 2D platformer game developed using the Godot Engine. 
 
-Check out the videos on the [Brackeys YouTube Channel](https://www.youtube.com/brackeys).
-
-Everything is free to use, also commercially (public domain).
+The game features exciting levels, challenging enemies, and a fun protagonist ready to embark on an adventurous journey.
